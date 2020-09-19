@@ -1,13 +1,13 @@
-#CV 
-###Vuiko Andrey
+# CV 
+### Vuiko Andrey
 Located in Abinsk Russia
 * mail - rayes@ukr.net
-####Summary
+#### Summary
 I`m learn frontend development.
-####Experience and education
+#### Experience and education
 * 2015-2018 NURE : Computer Engineer
 * I have no experience on real projects
-####Code examples
+#### Code examples
 * [Git @drRayes](https://github.com/drRayes)
-####English
+#### English
 * A2
